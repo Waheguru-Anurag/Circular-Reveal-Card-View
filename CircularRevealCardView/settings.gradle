@@ -1,0 +1,2 @@
+rootProject.name='Circular Reveal CardView'
+include ':app'
